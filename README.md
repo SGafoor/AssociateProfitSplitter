@@ -53,6 +53,9 @@ Next, create the following functions:
 
 In the `Deploy` tab in Remix, deploy the contract to your local Ganache chain by connecting to `Injected Web3` and ensuring MetaMask is pointed to `localhost:8545`.
 
+![image](https://user-images.githubusercontent.com/83382006/135958247-47dde7cc-ba9e-4262-a0d6-d9eff36f5076.png)
+
+
 You will need to fill in the constructor parameters with your designated `employee` addresses.
 
 Test the `deposit` function by sending various values. Keep an eye on the `employee` balances as you send different amounts of ether to the contract and ensure the logic is executing properly.
